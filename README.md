@@ -1,2 +1,1 @@
-# homestead
-hmst - Homestead
+# hmst / Homestead
